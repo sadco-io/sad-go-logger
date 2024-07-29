@@ -110,7 +110,7 @@ Contributions to SAD Go Logger are welcome! Please submit pull requests with any
 
 ## License
 
-[Insert your license information here]
+For private use within sadco-io services for now.
 
 ## Support
 
